@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+	"name": "UOS Whale",
+	"version": "1.010",
+
+	"description": "UOS Whale",
+	"icons": {
+		"16": "icon/icon_16.png",
+		"32": "icon/icon_32.png",
+		"64": "icon/icon_64.png",
+		"128": "icon/icon_128.png"
+	},
+
+	"sidebar_action": {
+		"default_page": "sidebar.html",
+		"default_icon": {
+			"16": "icon/icon_16.png",
+			"32": "icon/icon_32.png",
+			"64": "icon/icon_64.png",
+			"128": "icon/icon_128.png"
+		},
+		"default_title": "UOS Whale",
+		"use_navigation_bar": false
+	}
+}
